@@ -1,0 +1,28 @@
+.main{
+    margin: 0 auto;
+    width:700px;
+}
+.containermy{
+    background-color: black;
+    width: 1280px;
+    position:relative; right:300px;
+}
+.text-white{
+    margin-right:100px;
+}
+body{
+    background-image: url(./img/pngtree-mid-autumn-festival-pink-watercolor-picture-image_952709.jpg);
+    background-size: 1280px 4000px;
+    
+}
+.text-uppercase{
+    color:white;
+}
+.text-white1{
+    margin-right:140px;
+    color:white;
+}
+.form-label{
+    color:white;
+}
+
